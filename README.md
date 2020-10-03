@@ -33,9 +33,15 @@ The Data Model of the Blockchain should be like
   ```
   
   ### Chain Structure
+  ```js
+  console.log(JSON.stringify(lilChain, null, 4));
+ ```
   ![](https://github.com/sakshusakshusakshu/TASK-1/blob/master/images/ChainStructure.JPG)
   
   ### Validation
+   ```js
+  console.log("Is blockchain valid ?" + lilChain.isChainValid());
+   ```
   ![](https://github.com/sakshusakshusakshu/TASK-1/blob/master/images/Validity.JPG)
   
   
