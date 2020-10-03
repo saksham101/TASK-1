@@ -31,7 +31,12 @@ The Data Model of the Blockchain should be like
     "morgan": "^1.9.1"
   }
   ```
-
+  
+  ### Chain Structure
+  ![](https://github.com/sakshusakshusakshu/TASK-1/blob/master/images/ChainStructure.JPG)
+  
+  ### Validation
+  ![](https://github.com/sakshusakshusakshu/TASK-1/blob/master/images/Validity.JPG)
   
   
 
